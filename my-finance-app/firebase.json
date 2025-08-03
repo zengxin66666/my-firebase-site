@@ -1,0 +1,13 @@
+{
+  "hosting": [
+    {
+      "site": "financedashboard-67a6c",
+      "public": "public",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ]
+    }
+  ]
+}
